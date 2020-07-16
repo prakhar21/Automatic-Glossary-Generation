@@ -10,3 +10,4 @@
 3. `Definition_Extraction.ipynb` - 
 4. `Glossary_Extraction.ipynb` - 
 
+You can access project presentation [here](https://docs.google.com/presentation/d/1QfgaVk2QzKw-Rm4MbpTtl5FqUz8wah-q0tKeVw4N_Kc/edit?usp=sharing)
