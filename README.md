@@ -10,4 +10,4 @@
 3. `Definition_Extraction.ipynb` - WordNet model for definition generation.
 4. `Glossary_Extraction.ipynb` - Chinking strategy pipeline for selection of glossary terms.
 
-For more details of the project you can access project presentation [here](https://docs.google.com/presentation/d/1QfgaVk2QzKw-Rm4MbpTtl5FqUz8wah-q0tKeVw4N_Kc/edit?usp=sharing)
+For more details of the project and __results__ you can access project presentation [here](https://docs.google.com/presentation/d/1QfgaVk2QzKw-Rm4MbpTtl5FqUz8wah-q0tKeVw4N_Kc/edit?usp=sharing)
